@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/profile_images/*
+/public/images/*
+/public/new_images/*
+/public/terms_and_condition/*
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
